@@ -14,3 +14,4 @@ Any changes you make to your local folder where the repository contents is kept 
 
 <img width="1189" height="787" alt="image" src="https://github.com/user-attachments/assets/5779cae4-de20-40ab-9bd7-dfe4ef3cc742" />
 
+<img width="733" height="125" alt="image" src="https://github.com/user-attachments/assets/79a89449-4d22-4906-a621-6979b8c930b3" />
