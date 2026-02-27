@@ -12,3 +12,5 @@ It would be good to try GitHub fetching, commiting, pushing, and merging. Additi
 
 Any changes you make to your local folder where the repository contents is kept will be recorded by GitHub Desktop. Any changes can be commited through the Desktop app.
 
+<img width="1189" height="787" alt="image" src="https://github.com/user-attachments/assets/5779cae4-de20-40ab-9bd7-dfe4ef3cc742" />
+
